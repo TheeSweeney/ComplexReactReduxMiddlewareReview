@@ -1,7 +1,4 @@
 import React, { Component } from 'react';
-import API_KEY from "../config.js";
-
-console.log(API_KEY)
 
 export default class SearchBar extends Component {
 	constructor (props){
